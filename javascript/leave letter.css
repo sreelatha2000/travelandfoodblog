@@ -1,0 +1,35 @@
+*{
+    padding:0px;
+    margin:0px;
+    transition: all 0.5s;
+}
+body{
+    width:100vw;
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#a{
+    width:50vw;
+    position:absolute;
+    top:10px;
+    left: 50vw;
+
+
+}
+#b{
+    width:50vw;
+    position:absolute;
+    top:50px;
+    left: 50vw;
+
+
+}
+#heading{
+    width:0px;
+    position: absolute;
+    left: 30px;
+    top: 10px;
+
+}
